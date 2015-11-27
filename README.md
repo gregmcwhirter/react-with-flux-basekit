@@ -24,4 +24,5 @@ An environment setup for React with Flux
 6. Navigate to [http://localhost:8888/](http://localhost:8888/) if your browser doesn't open automatically.
 
 ##Change Log
-11.27.2015 - Base Description
+11-26-2015 - Base Description
+11-27-2015 - Moved the deprecated React.render to ReactDOM.render
